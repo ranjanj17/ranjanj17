@@ -1,7 +1,7 @@
 # Ranjan Kumar
 
 ### Jalandhar, Punjab
-📞 +91-9135604196 | 📧 [ranjank.cs.20@gmail.com](mailto:ranjank.cs.20@gmail.com)  
+📧 [ranjank.cs.20@gmail.com](mailto:ranjank.cs.20@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ranjanj17)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ranjanj17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjankumarnitjcse24/)
@@ -24,19 +24,6 @@ _A.I.S.S.C.E., Subject - P.C.M._
 _A.I.S.S.E_  
 📅 March 2016 – April 2017 | 📍 Patna, India  
 **CGPA:** 10
-
----
-
-## 💼 Experience
-
-**Cadence Design Systems**  
-_Software Engineering Intern, EAD Team_  
-📅 January 2024 – June 2024 | 📍 Noida, India  
-- Enhanced design automation processes on the Cadence Virtuoso infrastructure.
-- Resolved Qt-related issues to improve software stability and performance.
-- Utilized C++, Object-Oriented Programming (OOP), Data Structures, and Algorithms on Linux systems.
-- Managed version control using Perforce and streamlined coding with gVim.
-- Implemented a comprehensive warning, info, and error messaging system to enhance user feedback and debugging.
 
 ---
 
