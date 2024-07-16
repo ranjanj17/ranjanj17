@@ -1,11 +1,10 @@
-
-
 # Ranjan Kumar
 
 ### Jalandhar, Punjab
 📞 +91-9135604196 | 📧 [ranjank.cs.20@gmail.com](mailto:ranjank.cs.20@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Ranjan-Kumar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ranjanj17)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ranjanj17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjankumarnitjcse24/)
 
 ---
 
@@ -43,9 +42,9 @@ _Software Engineering Intern, EAD Team_
 
 ## 👨‍💻 Coding Profiles
 
-- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/) Solved 500+ problems, Contest Rating: 1701  
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org) Solved 400 problems  
-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://hackerrank.com) 4 Star in C language coding  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ranjanj17) Solved 500+ problems, Contest Rating: 1701  
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sandeepj3108/) Solved 400 problems  
+- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sandeepj3108) 4 Star in C language coding  
 
 ---
 
@@ -62,5 +61,13 @@ _Software Engineering Intern, EAD Team_
 
 **Cloud/Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=google%20colab&logoColor=black)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjankumarnitjcse24/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ranjanj17)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ranjanj17)
 
 ---
