@@ -117,10 +117,6 @@ Built **SRGAN super-resolution model** for remote sensing satellite imagery
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanj17&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=FFFFFF" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjanj17&theme=github_dark" width="95%"/>
-</div>
-
 ---
 
 ## 🏆 Competitive Programming
