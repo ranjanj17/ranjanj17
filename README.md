@@ -19,21 +19,18 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjanj17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=FFFFFF&langs_count=6" width="320"/>
+## 👨‍💻 About Me
 
 ```typescript
 const ranjan: Developer = {
-  location: "Bengaluru, India 📍",
+  location: "Bengaluru, India",
   role: "SDE @ Flipkart",
   impact: "180M+ Monthly Active Users",
   education: "NIT Jalandhar '24",
   
   expertise: [
-    "React Native",
-    "TypeScript", 
-    "Cross-Platform Mobile"
+    "React Native", "React.js", "TypeScript", 
+    "JavaScript", "C++", "Python", "Redux"
   ],
   
   currentlyBuilding: "Scalable e-commerce features",
@@ -45,8 +42,6 @@ const ranjan: Developer = {
 };
 ```
 
-<br clear="right"/>
-
 ---
 
 ## 🏢 Professional Journey
@@ -55,7 +50,7 @@ const ranjan: Developer = {
 <tr>
 <td width="50%">
 
-### 🛒 Flipkart
+### Flipkart
 **Software Development Engineer**  
 `Aug 2024 - Present` · Bengaluru
 
@@ -67,7 +62,7 @@ const ranjan: Developer = {
 </td>
 <td width="50%">
 
-### ⚡ Cadence Design Systems
+### Cadence Design Systems
 **Software Engineering Intern**  
 `Jan 2024 - Jun 2024` · Noida
 
@@ -81,7 +76,7 @@ const ranjan: Developer = {
 <tr>
 <td colspan="2" align="center">
 
-### 🚀 ISRO · Machine Learning Intern · `Jun 2023 - Jul 2023`
+### ISRO · Machine Learning Intern · `Jun 2023 - Jul 2023`
 Built **SRGAN super-resolution model** for remote sensing satellite imagery
 
 </td>
