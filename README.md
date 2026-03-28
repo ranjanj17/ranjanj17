@@ -114,12 +114,11 @@ Built **SRGAN super-resolution model** for remote sensing satellite imagery
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjanj17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=FFFFFF&ring_color=F97316" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranjanj17&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=FFFFFF" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranjanj17&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjanj17&theme=github_dark" width="95%"/>
 </div>
 
 ---
