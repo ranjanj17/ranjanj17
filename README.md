@@ -156,7 +156,7 @@ Built **SRGAN super-resolution model** for remote sensing satellite imagery
 
 **🏛️ Dr. B R Ambedkar National Institute of Technology Jalandhar**  
 **B.Tech in Computer Science & Engineering** · 2020-2024  
-**CGPA: 8.26/10**
+**CGPA: 8.32/10**
 
 </div>
 
