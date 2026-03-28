@@ -38,8 +38,8 @@ const ranjan = {
 
 | Company | Role | Duration |
 |:---:|:---|:---|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Flipkart_Logo_as_of_2025.png" height="20"/> **Flipkart** | Software Development Engineer | Aug 2024 - Present |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Cadence_Logo_2019.png" height="20"/> **Cadence Design Systems** | Software Engineering Intern | Jan 2024 - Jun 2024 |
+| 🛒 **Flipkart** | Software Development Engineer | Aug 2024 - Present |
+| ⚡ **Cadence Design Systems** | Software Engineering Intern | Jan 2024 - Jun 2024 |
 | 🚀 **ISRO** | Machine Learning Intern | Jun 2023 - Jul 2023 |
 
 ---
